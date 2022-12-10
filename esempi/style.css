@@ -10,6 +10,9 @@ h3{
 body
 
 {
+    background-image: url("../immagini/Immanuel_Kant_(painted_portrait).jpg");
+    background-position: top;
+    background-attachment: scroll;
     color: aquamarine;
     font-style: oblique;
     font-family: "Arial Narrow", sans-serif;
