@@ -1,7 +1,7 @@
 *{
     background-color: antiquewhite;
     color: salmon;
-    margin-top: 0;
+    margin-top: 2;
     margin-left: 20px;
     margin-right: 20px;
     padding: unset;
@@ -10,9 +10,10 @@
 
 }
 h3{
+    background-color: coral;
     font-size: 25px;
     color: greenyellow;
-    font-style: italic;
+    font-style: revert;
 
 
 }
@@ -25,6 +26,14 @@ header
     border-color: fuchsia ;
     border-style: dotted;
     text-align: center;
+}
+.inizio{
+    margin:0;
+    padding: 0;
+    text-align: center;
+}
+p{
+    color: fuchsia;
 }
 .container{
     justify-content: center;
@@ -45,4 +54,7 @@ header
 }
 .link{
     background-color: aquamarine;
+}
+.mappamondo{
+    display: block;
 }
