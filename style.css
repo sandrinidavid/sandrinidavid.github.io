@@ -1,11 +1,11 @@
 *{
-    background-color: antiquewhite;
+    background-color: rgba(20,3,0,0.92);
     color: salmon;
-    margin-top: 2;
+    margin-top: 2px;
     margin-left: 20px;
     margin-right: 20px;
     padding: unset;
-    ma
+
 
 
 }
@@ -24,8 +24,9 @@ header
     background-color: coral;
     background-clip: padding-box;
     border-color: fuchsia ;
-    border-style: dotted;
+    border-style: solid;
     text-align: center;
+    border-radius: 10px;
 }
 .inizio{
     margin:0;
@@ -39,6 +40,7 @@ p{
     justify-content: center;
     display: grid;
     border-style: solid;
+    border-radius: 10px;
     margin: 0;
     padding: 0;
 }
@@ -58,6 +60,9 @@ p{
 
 img{
 
+    border-style: double;
+    border-color: black;
+    border-radius: 20em;
     height: 600px;
-    weight: 600px;
+
 }
