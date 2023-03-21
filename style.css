@@ -55,6 +55,9 @@ p{
 .link{
     background-color: aquamarine;
 }
-.mappamondo{
-    display: block;
+
+img{
+
+    height: 600px;
+    weight: 600px;
 }
