@@ -1,18 +1,22 @@
 *{
-    background-color: rgba(20,3,0,0.92);
-    color: salmon;
-    margin-top: 2px;
-    margin-left: 20px;
-    margin-right: 20px;
+    background-color: bisque;
+    color: blue;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
     padding: unset;
 
 
 
 }
+nav{
+    background-color: white;
+
+}
 h3{
-    background-color: coral;
+    /*background-color: coral;*/
     font-size: 25px;
-    color: greenyellow;
+    color: brown;
     font-style: revert;
 
 
@@ -20,8 +24,9 @@ h3{
 
 header
 {
+    margin-left: initial;
 
-    background-color: coral;
+    /*background-color: blue;*/
     background-clip: padding-box;
     border-color: fuchsia ;
     border-style: solid;
@@ -40,22 +45,22 @@ p{
     justify-content: center;
     display: grid;
     border-style: solid;
-    border-radius: 10px;
+    /*border-radius: 10px;*/
     margin: 0;
     padding: 0;
 }
 .list{
-    background-color: aquamarine;
-    border-radius: 20px;
+    background-color: white;
+
     margin-top: 1em;
 
-    border-style: solid;
-    border-color: black;
+
     display: flex;
     justify-content: space-evenly;
 }
 .link{
-    background-color: aquamarine;
+    background-color: #ffffff;
+    color: greenyellow;
 }
 
 img{
